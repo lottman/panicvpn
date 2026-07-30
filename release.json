@@ -1,17 +1,16 @@
-  {
-    "version": "1.0.1",
-    "pubDate": "2026-08-05T10:00:00Z",
-    "notes": "Fixed latency measurement under tunnel mode",
-    "notesLocalized": {
-      "ru": "Исправлен замер пинга в режиме туннеля",
-      "en": "Fixed latency measurement under tunnel mode"
-    },
-    "channel": "stable",
-    "platforms": {
-      "windows-x86_64": {
-        "url": "https://github.com/lottman/panicvpn/releases/download/v1.0.1/PanicVPN-Setup.exe",
-        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "size": 14382592
-      }
+{
+  "version": "1.0.0",
+  "pubDate": "2026-07-30T01:17:53Z",
+  "channel": "stable",
+  "notesLocalized": {
+    "ru": "Первый публичный выпуск PanicVPN для Windows.",
+    "en": "First public release of PanicVPN for Windows."
+  },
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/lottman/panicvpn/releases/download/v1.0.0/PanicVPN-Setup.exe",
+      "sha256": "37f41e46175a3db82c96de94a33e6c5c7921320e74079311f9c8ec7b5a9b3ec3",
+      "size": 31542784
     }
   }
+}
