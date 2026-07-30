@@ -1,0 +1,10 @@
+  {
+    "mandatory": false,
+    "minSupportedVersion": "1.0.0",
+    "blockedVersions": [],
+    "message": { "ru": "", "en": "" },
+    "channel": "stable",
+    "checkIntervalHours": 6,
+    "maintenance": false,
+    "maintenanceMessage": { "ru": "", "en": "" }
+  }
