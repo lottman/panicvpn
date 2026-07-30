@@ -1,10 +1,12 @@
-  {
-    "mandatory": false,
-    "minSupportedVersion": "1.0.0",
-    "blockedVersions": [],
-    "message": { "ru": "", "en": "" },
-    "channel": "stable",
-    "checkIntervalHours": 6,
-    "maintenance": false,
-    "maintenanceMessage": { "ru": "", "en": "" }
+{
+  "mandatory": false,
+  "minSupportedVersion": "1.0.0",
+  "blockedVersions": [],
+  "channel": "stable",
+  "checkIntervalHours": 6,
+  "maintenance": false,
+  "maintenanceMessage": {
+    "ru": "Идут технические работы. Подключение может быть недоступно.",
+    "en": "Maintenance is under way. Connections may be unavailable."
   }
+}
